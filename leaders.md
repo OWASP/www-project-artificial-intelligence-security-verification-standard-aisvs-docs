@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jim Manico](mailto:jim@owasp.org)
+* [Russ Memisyazici](mailto:jim@owasp.org)
