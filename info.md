@@ -1,6 +1,5 @@
-### Artificial Intelligence Security Verification Standard AISVS Docs Information
+### Artificial Intelligence Security Verification Standard (AISVS)
 * [Incubator Project](#)
-* [Type of Project](#)
 * [Version 0.0.1](#)
 * [Builder](#)
 * [Breaker](#)
@@ -9,5 +8,5 @@
 * [x.com/AISVS](https://x.com/AISVS)
 
 ### Code Repository
-* [GitHub.com/OWASP/AISVS](https://github.com/OWASP/AISVS/)
+* [github.com/OWASP/AISVS](https://github.com/OWASP/AISVS/)
 
