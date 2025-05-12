@@ -32,7 +32,7 @@ Phase 1 – Research and Category List Creation
 * Collect relevant industry standards and research papers (e.g., NIST AI standards, ISO/IEC guidelines, privacy regulations).
 * Create an initial draft of categories that cover key security areas listed above
 * Get community feedback and final approval for the category list
-* Work on the category list is ongoing here: https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md
+* Work on the category list is ongoing here: [https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md](https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md)
 
 Phase 2 – Requirement Creation
 
