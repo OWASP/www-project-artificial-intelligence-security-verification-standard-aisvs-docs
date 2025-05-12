@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Artificial Intelligence Security Verification Standard AISVS Docs
-tags: example-tag
+tags: AI, LLM, Security, AISVS
 level: 2
 type: documentation
 pitch: OWASP AI verification standard for developers and testers
