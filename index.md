@@ -30,17 +30,16 @@ The AI Security Verification Standard (AISVS) focuses on providing developers, a
 Phase 1 – Research and Category List Decision
 
 * Collect relevant industry standards and research papers (e.g., NIST AI standards, ISO/IEC guidelines, privacy regulations).
-* Create an initial draft of requirements that cover key areas: data security, model security, infrastructure, and ethical considerations.
+* Create an initial draft of categories that cover key security areas listed above
 
 Phase 2 – Requirement Creation
 
-* Publish the draft in a public repository for the community to review.
-* Host virtual roundtable discussions or workshops to gather industry feedback.
+* Create a list of requirements for each category
 * Refine the standard based on community, partner, and subject matter expert input.
 
 Phase 3 – Beta Release and Pilot Testing
 
-* Release a “beta” version of AISVS.
+* Release a “beta” version of AISVS (v.1).
 * Invite early adopters to test AISVS on real-world AI applications and gather feedback on usability and coverage.
 
 Phase 4 – Final 1.0 Release
