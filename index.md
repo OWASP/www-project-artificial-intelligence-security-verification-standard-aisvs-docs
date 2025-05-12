@@ -5,7 +5,7 @@ title: OWASP Artificial Intelligence Security Verification Standard AISVS Docs
 tags: example-tag
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: OWASP AI verification standard for developers and testers
 
 ---
 
