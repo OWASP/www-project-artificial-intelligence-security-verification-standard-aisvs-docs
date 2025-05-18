@@ -9,7 +9,7 @@ pitch: OWASP AI verification standard for developers and testers
 
 ---
 
-The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured framework to evaluate and verify the security and ethical considerations of AI-driven applications. Modeled after existing OWASP standards (such as the ASVS for web applications), AISVS will define categories of requirements for areas including:
+The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security and ethical considerations of AI-driven applications. Modeled after existing OWASP standards (such as the ASVS for web applications), AISVS will define categories of requirements for areas including:
 
 * Training Data Governance & Bias Management
 * User Input Validation
