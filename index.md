@@ -11,30 +11,26 @@ pitch: OWASP AI verification standard for developers and testers
 
 The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security and ethical considerations of AI-driven applications. Modeled after existing OWASP standards (such as the ASVS for web applications), AISVS will define categories of requirements for areas including:
 
-* Training Data Governance & Bias Management
-* User Input Validation
-* Model Lifecycle Management & Change Control
-* Infrastructure, Configuration & Deployment Security
-* Access Control & Identity for AI Components & Users
-* Supply Chain Security for Models, Frameworks & Data
-* Model Behavior, Output Control & Safety Assurance
-* Memory, Embeddings & Vector Database Security
-* Autonomous Orchestration & Agentic Action Security
-* Adversarial Robustness & Attack Resistance
-* Privacy Protection & Personal Data Management
-* Monitoring, Logging & Anomaly Detection
-* Human Oversight, Accountability & Governance
-* Explainability, Interpretability & Transparency
+1. [Training Data Governance & Bias Management](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C1-Training-Data-Governance.md.)
+2. [User Input Validation](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C02-User-Input-Validation.md)
+3. [Model Lifecycle Management & Change Control](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C03-Model-Lifecycle-Management.md)
+4. [Infrastructure, Configuration & Deployment Security](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C04-Infrastructure.md)
+5. [Access Control & Identity](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C05-Access-Control-and-Identity.md)
+6. Supply Chain Security for Models, Frameworks & Data
+7. Model Behavior, Output Control & Safety Assurance
+8. Memory, Embeddings & Vector Database Security
+9. Autonomous Orchestration & Agentic Action Security
+10. Adversarial Robustness & Attack Resistance
+11. Privacy Protection & Personal Data Management
+12. Monitoring, Logging & Anomaly Detection
+13. Human Oversight and Trust
 
 ### Road Map
-Phase 1 – Research and Category List Creation
+Phase 1 – Research and Category List Creation (Complete)
 
-* Collect relevant industry standards and research papers (e.g., NIST AI standards, ISO/IEC guidelines, privacy regulations).
-* Create an initial draft of categories that cover key security areas listed above
-* Get community feedback and final approval for the category list
-* Work on the category list is ongoing here: [https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md](https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md)
+* Work on the category list is complete: [https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md](https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md)
 
-Phase 2 – Requirement Creation
+Phase 2 – Requirement Creation 9 (Current Phase)
 
 * Create a list of requirements for each category
 * Refine the standard based on community, partner, and subject matter expert input.
