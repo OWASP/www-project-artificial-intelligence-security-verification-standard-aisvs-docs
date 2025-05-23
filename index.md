@@ -16,14 +16,14 @@ The AI Security Verification Standard (AISVS) focuses on providing developers, a
 3. [Model Lifecycle Management & Change Control](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C03-Model-Lifecycle-Management.md)
 4. [Infrastructure, Configuration & Deployment Security](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C04-Infrastructure.md)
 5. [Access Control & Identity](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C05-Access-Control-and-Identity.md)
-6. Supply Chain Security for Models, Frameworks & Data
-7. Model Behavior, Output Control & Safety Assurance
-8. Memory, Embeddings & Vector Database Security
-9. Autonomous Orchestration & Agentic Action Security
-10. Adversarial Robustness & Attack Resistance
-11. Privacy Protection & Personal Data Management
-12. Monitoring, Logging & Anomaly Detection
-13. Human Oversight and Trust
+6. [Supply Chain Security for Models, Frameworks & Data](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C06-Supply-Chain.md)
+7. [Model Behavior, Output Control & Safety Assurance](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C07-Model-Behavior.md)
+8. [Memory, Embeddings & Vector Database Security](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C08-Memory-Embeddings-and-Vector-Database.md)
+9. [Autonomous Orchestration & Agentic Action Security](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C09-Orchestration-and-Agentic-Action.md)
+10. [Adversarial Robustness & Attack Resistance](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C10-Adversarial-Robustness.md)
+11. [Privacy Protection & Personal Data Management](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C11-Privacy.md)
+12. [Monitoring, Logging & Anomaly Detection](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C12-Monitoring-and-Logging.md)
+13. [Human Oversight and Trust](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C13-Human-Oversight.md)
 
 ### Road Map
 Phase 1 – Research and Category List Creation (Complete)
