@@ -1,3 +1,3 @@
 ### Leaders
 * [Jim Manico](mailto:jim@owasp.org)
-* [Russ Memisyazici](https://www.linkedin.com/in/vtxmm/)
+* [Russ Memisyazici](mailto:russ.m@owasp.org)
