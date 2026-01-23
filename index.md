@@ -28,9 +28,7 @@ The AI Security Verification Standard (AISVS) focuses on providing developers, a
 ### Road Map
 Phase 1 – Research and Category List Creation (Complete)
 
-* Work on the category list is complete: [https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md](https://github.com/OWASP/AISVS/blob/main/1.0/en/Categories.md)
-
-Phase 2 – Requirement Creation 9 (Current Phase)
+Phase 2 – Requirement Creation (Current Phase)
 
 * Create a list of requirements for each category
 * Refine the standard based on community, partner, and subject matter expert input.
