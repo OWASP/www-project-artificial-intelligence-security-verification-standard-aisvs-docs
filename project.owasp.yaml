@@ -1,0 +1,32 @@
+audience:
+  - breaker
+  - builder
+community:
+  - name: project-aisvs
+    platform: slack
+    url: https://owasp.slack.com/archives/C08NKTCJT5E
+    description: The OWASP Artificial Intelligence Security Verification Standard (AISVS)
+leaders:
+  - name: Jim Manico
+    email: jim@owasp.org
+    github: jmanico
+  - name: Russ Memisyazici
+    email: russ.m@owasp.org
+level: 2
+license:
+  - CC-BY-SA-4.0
+name: OWASP Artificial Intelligence Security Verification Standard AISVS Docs
+pitch: OWASP AI verification standard for developers and testers
+repositories:
+  - name: www-project-artificial-intelligence-security-verification-standard-aisvs-docs
+    url: https://github.com/OWASP/www-project-artificial-intelligence-security-verification-standard-aisvs-docs
+    description: OWASP Foundation web repository
+  - name: AISVS
+    url: https://github.com/OWASP/AISVS
+tags:
+  - AI
+  - LLM
+  - Security
+  - AISVS
+type: documentation
+website: https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs
