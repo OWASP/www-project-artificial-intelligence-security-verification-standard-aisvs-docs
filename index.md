@@ -9,7 +9,11 @@ pitch: OWASP AI verification standard for developers and testers
 
 ---
 
-The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security and ethical considerations of AI-driven applications. Modeled after existing OWASP standards (such as the ASVS for web applications), AISVS will define categories of requirements for areas including:
+The AI Security Verification Standard (AISVS) provides developers, architects,
+testers, and security professionals with a structured checklist for reviewing
+the security and safety posture of AI-enabled systems. Modeled after OWASP
+verification standards such as ASVS, AISVS is being developed as a practical
+set of requirements covering:
 
 1. [Training Data Governance & Bias Management](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C01-Training-Data-Governance.md)
 2. [User Input Validation](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C02-User-Input-Validation.md)
@@ -27,24 +31,27 @@ The AI Security Verification Standard (AISVS) focuses on providing developers, a
 14. [Human Oversight and Trust](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C14-Human-Oversight.md)
 
 ### Road Map
-Phase 1 – Research and Category List Creation (Complete)
+This site is the public documentation wrapper for the main
+[OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
 
-Phase 2 – Requirement Creation (Current Phase)
+Phase 1 - Research and category list creation (Complete)
+
+Phase 2 - Requirement creation (Current Phase)
 
 * Create a list of requirements for each category
 * Refine the standard based on community, partner, and subject matter expert input.
 
-Phase 3 – Beta Release and Pilot Testing
+Phase 3 - Beta release and pilot testing
 
 * Release a “beta” version of AISVS (v.1).
 * Invite early adopters to test AISVS on real-world AI applications and gather feedback on usability and coverage.
 
-Phase 4 – Final 1.0 Release
+Phase 4 - Final 1.0 release
 
 * Incorporate feedback from pilot testing.
 * Formally publish Version 1.0 of AISVS, including comprehensive documentation and a lightweight checklist.
 
-Phase 5 – Continuous Improvement
+Phase 5 - Continuous improvement
 
 * Maintain the AISVS as an open-source project, encouraging community contributions.
 * Periodically release updated versions reflecting emerging threats, novel AI approaches, and regulatory changes.
