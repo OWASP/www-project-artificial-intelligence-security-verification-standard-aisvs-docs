@@ -10,6 +10,10 @@ leaders:
   - name: Jim Manico
     email: jim@owasp.org
     github: jmanico
+  - name: Otto Sulin
+    github: ottosulin
+  - name: Rico Komenda
+    github: RicoKomenda
   - name: Russ Memisyazici
     email: russ.m@owasp.org
 level: 2
