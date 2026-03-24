@@ -34,24 +34,10 @@ set of requirements covering:
 This site is the public documentation wrapper for the main
 [OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
 
-Phase 1 - Research and category list creation (Complete)
-
-Phase 2 - Requirement creation (Current Phase)
-
-* Create a list of requirements for each category
-* Refine the standard based on community, partner, and subject matter expert input.
-
-Phase 3 - Beta release and pilot testing
-
-* Release a “beta” version of AISVS (v.1).
-* Invite early adopters to test AISVS on real-world AI applications and gather feedback on usability and coverage.
-
-Phase 4 - Final 1.0 release
-
-* Incorporate feedback from pilot testing.
-* Formally publish Version 1.0 of AISVS, including comprehensive documentation and a lightweight checklist.
-
-Phase 5 - Continuous improvement
-
-* Maintain the AISVS as an open-source project, encouraging community contributions.
-* Periodically release updated versions reflecting emerging threats, novel AI approaches, and regulatory changes.
+| Phase | Status | Focus |
+| --- | --- | --- |
+| Phase 1: Research and Category List Creation | Complete | Establish the research base and define the AISVS category structure. |
+| Phase 2: Requirement Creation | Current Phase | Create requirements for each category and refine them with community, partner, and subject matter expert input. |
+| Phase 3: Beta Release and Pilot Testing | Planned | Release a beta version of AISVS and gather feedback from early adopters using it on real-world AI applications. |
+| Phase 4: Final 1.0 Release | Planned | Incorporate pilot feedback and publish Version 1.0 with full documentation and a lightweight checklist. |
+| Phase 5: Continuous Improvement | Ongoing | Maintain AISVS as an open source project and update it to address emerging threats, new AI approaches, and regulatory change. |
