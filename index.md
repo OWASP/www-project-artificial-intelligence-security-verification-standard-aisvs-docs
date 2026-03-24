@@ -36,7 +36,7 @@ This site is the public documentation wrapper for the main
 
 | Phase | Status | Focus |
 | --- | --- | --- |
-| Phase 1: Research and Category List Creation | Complete | Establish the research base and define the AISVS category structure. |
+| Phase 1: Research and Category List Creation | Done | Establish the research base and define the AISVS category structure. |
 | Phase 2: Requirement Creation | Current Phase | Create requirements for each category and refine them with community, partner, and subject matter expert input. |
 | Phase 3: Beta Release and Pilot Testing | Planned | Release a beta version of AISVS and gather feedback from early adopters using it on real-world AI applications. |
 | Phase 4: Final 1.0 Release | Planned | Incorporate pilot feedback and publish Version 1.0 with full documentation and a lightweight checklist. |
