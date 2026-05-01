@@ -15,10 +15,7 @@ helps developers, architects, security engineers, and auditors design, build,
 test, and verify AI applications throughout their lifecycle, from data
 collection and model training to deployment, monitoring, and retirement.
 
-AISVS follows the [OWASP Application Security Verification Standard
-(ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
-philosophy: every requirement should be verifiable, testable, and
-implementable.
+Every requirement is verifiable, testable, and implementable.
 
 This site is the public documentation wrapper for the main
 [OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
