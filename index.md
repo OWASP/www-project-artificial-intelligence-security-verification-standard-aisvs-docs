@@ -13,6 +13,8 @@ pitch: OWASP AI verification standard for developers and testers
   <img alt="OWASP AISVS Logo" src="images/aisvs-logo-light.png" width="520">
 </p>
 
+&nbsp;
+
 The **Artificial Intelligence Security Verification Standard (AISVS)** is an
 open catalogue of testable security requirements for AI-enabled systems. It
 helps developers, architects, security engineers, and auditors design, build,
