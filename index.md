@@ -25,10 +25,10 @@ This site is the public documentation wrapper for the main
 
 ### How to use AISVS
 
-* **During design.** Use it as a security checklist when architecting AI systems.
-* **During development.** Integrate it into CI/CD pipelines, code reviews, and tests.
-* **During assessments.** Use it as a verification framework for pen testing and audits.
-* **For procurement.** Reference specific requirements when evaluating AI vendors and third-party models.
+* **Design.** Use it as a security checklist when architecting AI systems.
+* **Development.** Integrate it into CI/CD pipelines, code reviews, and tests.
+* **Assessment.** Apply it as a verification framework for pen testing and audits.
+* **Procurement.** Reference specific requirements when evaluating AI vendors and third-party models.
 
 ### Verification Levels
 
