@@ -34,11 +34,32 @@ This site is the public documentation wrapper for the main
 
 Each requirement is assigned a level (1, 2, or 3) indicating depth of assurance.
 
-| Level | Description | When to use |
-| :---: | --- | --- |
-| **1** | Essential baseline controls every AI system should implement. | All AI applications, including internal tools and low-risk systems. |
-| **2** | Standard controls for systems handling sensitive data or making consequential decisions. | Production systems, customer-facing AI, systems processing personal data. |
-| **3** | Advanced controls for high-assurance environments facing sophisticated threats. | Critical infrastructure, safety-critical AI, regulated industries. |
+<table>
+  <thead>
+    <tr>
+      <th style="white-space:nowrap; text-align:center;">Level</th>
+      <th>Description</th>
+      <th>When to use</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;"><strong>1</strong></td>
+      <td>Essential baseline controls every AI system should implement.</td>
+      <td>All AI applications, including internal tools and low-risk systems.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><strong>2</strong></td>
+      <td>Standard controls for systems handling sensitive data or making consequential decisions.</td>
+      <td>Production systems, customer-facing AI, systems processing personal data.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><strong>3</strong></td>
+      <td>Advanced controls for high-assurance environments facing sophisticated threats.</td>
+      <td>Critical infrastructure, safety-critical AI, regulated industries.</td>
+    </tr>
+  </tbody>
+</table>
 
 Most production systems should aim for at least Level 2.
 
