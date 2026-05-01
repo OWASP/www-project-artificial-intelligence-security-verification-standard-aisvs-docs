@@ -9,11 +9,41 @@ pitch: OWASP AI verification standard for developers and testers
 
 ---
 
-The AI Security Verification Standard (AISVS) provides developers, architects,
-testers, and security professionals with a structured checklist for reviewing
-the security and safety posture of AI-enabled systems. Modeled after OWASP
-verification standards such as ASVS, AISVS is being developed as a practical
-set of requirements covering:
+The **Artificial Intelligence Security Verification Standard (AISVS)** is a
+community-driven catalogue of testable security requirements for AI-enabled
+systems. It gives developers, architects, security engineers, and auditors a
+structured framework to design, build, test, and verify the security of AI
+applications across their full lifecycle — from data collection and model
+training through deployment, monitoring, and retirement.
+
+AISVS is modeled after the [OWASP Application Security Verification Standard
+(ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
+and follows the same philosophy: every requirement should be **verifiable,
+testable, and implementable**.
+
+This site is the public documentation wrapper for the main
+[OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
+
+### How to use AISVS
+
+* **During design** — as a security checklist when architecting AI systems.
+* **During development** — integrated into CI/CD pipelines, code reviews, and tests.
+* **During assessments** — as a verification framework for pen testing and audits.
+* **For procurement** — to evaluate AI vendors and third-party models.
+
+### Verification Levels
+
+Each requirement is assigned a level (1, 2, or 3) indicating depth of assurance:
+
+| Level | Description | When to use |
+| :---: | --- | --- |
+| **1** | Essential baseline controls every AI system should implement. | All AI applications, including internal tools and low-risk systems. |
+| **2** | Standard controls for systems handling sensitive data or making consequential decisions. | Production systems, customer-facing AI, systems processing personal data. |
+| **3** | Advanced controls for high-assurance environments facing sophisticated threats. | Critical infrastructure, safety-critical AI, regulated industries. |
+
+Most production systems should aim for at least Level 2.
+
+### Requirement Chapters
 
 1. [Training Data Governance & Bias Management](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C01-Training-Data-Integrity-and-Traceability.md)
 2. [User Input Validation](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C02-Input-Validation.md)
@@ -30,9 +60,14 @@ set of requirements covering:
 13. [Monitoring, Logging & Anomaly Detection](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C13-Monitoring-and-Logging.md)
 14. [Human Oversight and Trust](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x10-C14-Human-Oversight.md)
 
+### Appendices
+
+* [Appendix A: Glossary](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x90-Appendix-A_Glossary.md)
+* [Appendix B: References](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x91-Appendix-B_References.md)
+* [Appendix C: AI-Assisted Secure Coding](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x92-Appendix-C_AI_for_Code_Generation.md)
+* [Appendix D: AI Security Controls Inventory](https://github.com/OWASP/AISVS/blob/main/1.0/en/0x93-Appendix-D_AI_Security_Controls_Inventory.md)
+
 ### Road Map
-This site is the public documentation wrapper for the main
-[OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
 
 | Phase | Status | Focus |
 | --- | --- | --- |
