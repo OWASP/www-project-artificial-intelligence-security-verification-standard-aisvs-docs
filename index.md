@@ -10,11 +10,7 @@ pitch: OWASP AI verification standard for developers and testers
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/aisvs-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/aisvs-logo-light.png">
-    <img alt="OWASP AISVS Logo" src="images/aisvs-logo-light.png" width="520">
-  </picture>
+  <img alt="OWASP AISVS Logo" src="images/aisvs-logo-light.png" width="520">
 </p>
 
 The **Artificial Intelligence Security Verification Standard (AISVS)** is an
