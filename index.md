@@ -9,31 +9,30 @@ pitch: OWASP AI verification standard for developers and testers
 
 ---
 
-The **Artificial Intelligence Security Verification Standard (AISVS)** is a
-community-driven catalogue of testable security requirements for AI-enabled
-systems. It gives developers, architects, security engineers, and auditors a
-structured framework to design, build, test, and verify the security of AI
-applications across their full lifecycle — from data collection and model
-training through deployment, monitoring, and retirement.
+The **Artificial Intelligence Security Verification Standard (AISVS)** is an
+open catalogue of testable security requirements for AI-enabled systems. It
+helps developers, architects, security engineers, and auditors design, build,
+test, and verify AI applications throughout their lifecycle, from data
+collection and model training to deployment, monitoring, and retirement.
 
-AISVS is modeled after the [OWASP Application Security Verification Standard
+AISVS follows the [OWASP Application Security Verification Standard
 (ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
-and follows the same philosophy: every requirement should be **verifiable,
-testable, and implementable**.
+philosophy: every requirement should be verifiable, testable, and
+implementable.
 
 This site is the public documentation wrapper for the main
 [OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
 
 ### How to use AISVS
 
-* **During design** — as a security checklist when architecting AI systems.
-* **During development** — integrated into CI/CD pipelines, code reviews, and tests.
-* **During assessments** — as a verification framework for pen testing and audits.
-* **For procurement** — to evaluate AI vendors and third-party models.
+* **During design.** Use it as a security checklist when architecting AI systems.
+* **During development.** Integrate it into CI/CD pipelines, code reviews, and tests.
+* **During assessments.** Use it as a verification framework for pen testing and audits.
+* **For procurement.** Reference specific requirements when evaluating AI vendors and third-party models.
 
 ### Verification Levels
 
-Each requirement is assigned a level (1, 2, or 3) indicating depth of assurance:
+Each requirement is assigned a level (1, 2, or 3) indicating depth of assurance.
 
 | Level | Description | When to use |
 | :---: | --- | --- |
