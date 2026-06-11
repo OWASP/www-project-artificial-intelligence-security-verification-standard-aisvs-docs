@@ -23,7 +23,8 @@ collection and model training to deployment, monitoring, and retirement.
 
 Every requirement is verifiable, testable, and implementable.
 
-**Currently:** going through final review with AISVS leadership. Going live with 1.0 on June 24.
+> ### Project Status
+> AISVS is undergoing final review by project leadership. **Version 1.0 will be released on June 24, 2026.**
 
 This site is the public documentation wrapper for the main
 [OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
