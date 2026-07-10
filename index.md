@@ -24,7 +24,7 @@ collection and model training to deployment, monitoring, and retirement.
 Every requirement is verifiable, testable, and implementable.
 
 > ### Project Status
-> AISVS is undergoing final review by project leadership. **Version 1.0 will be released on June 24, 2026.**
+> **AISVS Version 1.0 is live!** Released June 24, 2026, it is available now in the [OWASP/AISVS](https://github.com/OWASP/AISVS) repository. [Download the AISVS 1.0 PDF](https://github.com/OWASP/AISVS/blob/main/1.0/dist/AISVS-1.0.pdf).
 
 This site is the public documentation wrapper for the main
 [OWASP/AISVS](https://github.com/OWASP/AISVS) content repository.
@@ -99,5 +99,5 @@ Most production systems should aim for at least Level 2.
 | Phase 1: Research and Category List Creation | Done | Establish the research base and define the AISVS category structure. |
 | Phase 2: Requirement Creation | Done | Create requirements for each category and refine them with community, partner, and subject matter expert input. |
 | Phase 3: Beta Release and Pilot Testing | Done | Release a beta version of AISVS and gather feedback from early adopters using it on real-world AI applications. |
-| Phase 4: Final 1.0 Release | Current Phase | Incorporate pilot feedback and publish Version 1.0 with full documentation and a lightweight checklist. |
-| Phase 5: Continuous Improvement | Ongoing | Maintain AISVS as an open source project and update it to address emerging threats, new AI approaches, and regulatory change. |
+| Phase 4: Final 1.0 Release | Done | Incorporate pilot feedback and publish Version 1.0 with full documentation and a lightweight checklist. |
+| Phase 5: Continuous Improvement | Current Phase | Maintain AISVS as an open source project and update it to address emerging threats, new AI approaches, and regulatory change. |
