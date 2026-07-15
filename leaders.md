@@ -3,4 +3,3 @@
 * [Otto Sulin](https://github.com/ottosulin)
 * [Rico Komenda](https://github.com/RicoKomenda)
 * [Russ Memisyazici](mailto:russ.m@owasp.org)
-* [Raza Sharif](mailto:raza@cybersecai.co.uk)
