@@ -1,11 +1,17 @@
 audience:
   - breaker
   - builder
+  - defender
 community:
   - name: project-aisvs
     platform: slack
     url: https://owasp.slack.com/archives/C08NKTCJT5E
-    description: The OWASP Artificial Intelligence Security Verification Standard (AISVS)
+    description: Discuss the OWASP Artificial Intelligence Security Verification Standard (AISVS)
+documentation:
+  - https://github.com/OWASP/AISVS/tree/main/1.0/en
+  - https://github.com/OWASP/AISVS/blob/main/1.01-dev/research/README.md
+downloads:
+  - https://github.com/OWASP/AISVS/raw/main/1.0/dist/AISVS-1.0.pdf
 leaders:
   - name: Jim Manico
     email: jim@owasp.org
@@ -16,21 +22,34 @@ leaders:
     github: RicoKomenda
   - name: Russ Memisyazici
     email: russ.m@owasp.org
+    github: vtknightmare
 level: 2
 license:
   - CC-BY-SA-4.0
-name: OWASP Artificial Intelligence Security Verification Standard AISVS Docs
-pitch: OWASP AI verification standard for developers and testers
+logo:
+  - small: https://raw.githubusercontent.com/OWASP/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/main/assets/images/aisvs-logo-192.png
+    medium: https://raw.githubusercontent.com/OWASP/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/main/assets/images/aisvs-logo-256.png
+    large: https://raw.githubusercontent.com/OWASP/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/main/assets/images/aisvs-logo-512.png
+name: OWASP Artificial Intelligence Security Verification Standard (AISVS)
+pitch: An open standard of testable security requirements for designing, building, and verifying AI systems, from training data to autonomous agents and MCP.
 repositories:
   - name: www-project-artificial-intelligence-security-verification-standard-aisvs-docs
     url: https://github.com/OWASP/www-project-artificial-intelligence-security-verification-standard-aisvs-docs
-    description: OWASP Foundation web repository
+    description: OWASP project page source for AISVS
   - name: AISVS
     url: https://github.com/OWASP/AISVS
+    description: AISVS standard content, releases, and research wiki
+    contribution_guide: https://github.com/OWASP/AISVS/blob/main/CONTRIBUTING.md
+    code_of_conduct: https://policy.owasp.org/operational/code-of-conduct
+social_media:
+  - platform: x
+    url: https://x.com/OWASP_AISVS
+    description: AISVS release news and announcements
 tags:
-  - AI
-  - LLM
-  - Security
-  - AISVS
+  - aisvs
+  - ai-security
+  - llm-security
+  - agentic-ai
+  - mcp-security
 type: documentation
-website: https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs
+website: https://owasp.org/projects/artificial-intelligence-security-verification-standard-aisvs-docs
